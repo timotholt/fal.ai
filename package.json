@@ -1,0 +1,14 @@
+{
+  "name": "fal-ai-app",
+  "version": "1.0.0",
+  "description": "Fal AI application",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "@fal-ai/client": "^1.5.0",
+    "dotenv": "^17.2.0"
+  }
+}
